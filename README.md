@@ -1,7 +1,8 @@
 # TWOFCS 2025
-Hosted by Argonne National Laboratory
-Co-sponsored by OECD-NEA
-Dates: June 11-13, 2025
+
+Hosted by Argonne National Laboratory  
+Co-sponsored by OECD-NEA  
+Dates: June 11-13, 2025  
 Location: Gleacher Center, Chicago, IL
 
 ## Agenda:
