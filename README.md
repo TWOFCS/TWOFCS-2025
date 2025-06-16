@@ -1,15 +1,13 @@
 # TWOFCS 2025
-Hosted by Argonne National Laboratory
-Co-sponsored by OECD-NEA
-Dates: June 11-13, 2025
+
+Hosted by Argonne National Laboratory  
+Co-sponsored by OECD-NEA  
+Dates: June 11-13, 2025  
 Location: Gleacher Center, Chicago, IL
 
 ## Agenda:
-TWOFCS 2025 
-Gleacher Center, Chicago, IL, June 11-13, 2025
 
-
-|<td colspan=3>**Wednesday, June 11, 2025**|||
+||**Wednesday, June 11, 2025**||
 |---------|------|-------|
 |8:00-8:10	| Opening Remarks | A. Bachmann |
 |8:10-8:30	| Keynote address | D. Algama |
@@ -35,8 +33,8 @@ Gleacher Center, Chicago, IL, June 11-13, 2025
 |3:35-3:45|	**Break** ||
 |3:45-4:45|	**Panel: Emerging Issues** |	J. Zhou|
 | | | |
-|<td colspan=3>**Thursday, June 12**|
-|<td colspan=3> :---: |
+||**Thursday, June 12**||
+| | | |
 |8:00-8:25	|**Systems Analysis and Integration Campaign Overview**	|T. K. Kim|
 |8:25-8:30	|**Break** ||
 |8:30-10:10	|**Fuel cycle economics 1**	|S. Richards|
@@ -60,7 +58,7 @@ Gleacher Center, Chicago, IL, June 11-13, 2025
 |4:10-4:15	|**Break**	||
 |4:15-4:30	|**Discussion**|	S. Richards||
 ||||	
-|<td colspan=3> **Friday, June 13**|
+|| **Friday, June 13**||
 ||
 |8:00-8:25	|**NEA Overview and updates**|	F. Alvarez-Velarde|
 |8:25-8:30	|**Break**||
