@@ -6,9 +6,6 @@ Dates: June 11-13, 2025
 Location: Gleacher Center, Chicago, IL
 
 ## Agenda:
-TWOFCS 2025 
-Gleacher Center, Chicago, IL, June 11-13, 2025
-
 
 ||**Wednesday, June 11, 2025**||
 |---------|------|-------|
