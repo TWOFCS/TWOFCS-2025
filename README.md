@@ -5,6 +5,8 @@ Co-sponsored by OECD-NEA
 Dates: June 11-13, 2025  
 Location: Gleacher Center, Chicago, IL
 
+[Participant Photo](2025TWOFCS-Participants.jpg)
+
 ## Agenda:
 
 ||**Wednesday, June 11, 2025**||
